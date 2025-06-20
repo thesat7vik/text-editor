@@ -1,0 +1,11 @@
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\libconvert_case-846e0ea93b44384f.rmeta: C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src/lib.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\boundary.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\case.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\converter.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\pattern.rs
+
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\libconvert_case-846e0ea93b44384f.rlib: C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src/lib.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\boundary.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\case.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\converter.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\pattern.rs
+
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\convert_case-846e0ea93b44384f.d: C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src/lib.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\boundary.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\case.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\converter.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\pattern.rs
+
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src/lib.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\boundary.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\case.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\converter.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\convert_case-0.7.1\src\pattern.rs:

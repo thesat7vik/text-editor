@@ -1,0 +1,11 @@
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\libbitflags-aeab763c66d88460.rmeta: C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src/lib.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\iter.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\parser.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\traits.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\public.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\internal.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\external.rs
+
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\bitflags-aeab763c66d88460.d: C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src/lib.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\iter.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\parser.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\traits.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\public.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\internal.rs C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\external.rs
+
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src/lib.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\iter.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\parser.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\traits.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\public.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\internal.rs:
+C:\Users\Satvik\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.9.1\src\external.rs:
