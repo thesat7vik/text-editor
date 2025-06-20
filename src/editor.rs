@@ -16,15 +16,15 @@ impl Editor {
                 Ok(b) => {
                     let c = b as char;
                     if c.is_control() {
-                        println!("Binary: {0:08b} ASCII: {0:#03} \r", b);
+                        println!("Binary: {b:08b} ASCII: {b:#03} \r");
                     } else {
-                        println!("Binary: {0:08b} ASCII: {0:#03} Character: {1:#?} \r", b, c);
+                        println!("Binary: {b:08b} ASCII: {b:#03} Character: {c:#?} \r");
                     }
                     if c == 'q' {
                         break;
                     }
                 }
-                Err(err) => println!("Error: {}", err),
+                Err(err) => println!("Error: {err}"),
             }
         }
         disable_raw_mode().unwrap();

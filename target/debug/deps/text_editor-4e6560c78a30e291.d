@@ -1,0 +1,10 @@
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\libtext_editor-4e6560c78a30e291.rmeta: src/main.rs src\editor.rs Cargo.toml
+
+C:\Users\Satvik\Documents\Rust\text_editor\target\debug\deps\text_editor-4e6560c78a30e291.d: src/main.rs src\editor.rs Cargo.toml
+
+src/main.rs:
+src\editor.rs:
+Cargo.toml:
+
+# env-dep:CLIPPY_ARGS=-W__CLIPPY_HACKERY__clippy::all__CLIPPY_HACKERY__-W__CLIPPY_HACKERY__clippy::pedantic__CLIPPY_HACKERY__--no-deps__CLIPPY_HACKERY__
+# env-dep:CLIPPY_CONF_DIR
