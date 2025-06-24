@@ -1,5 +1,6 @@
 use crossterm::event::{read, Event, Event::Key, KeyCode::Char, KeyEvent, KeyModifiers};
 use crossterm::execute;
+use crossterm::cursor;
 use crossterm::terminal::{disable_raw_mode, enable_raw_mode, Clear, ClearType};
 use std::io::stdout;
 
@@ -20,6 +21,7 @@ impl Editor {
 
     fn initialize() -> Result<(), std::io::Error> {
         enable_raw_mode()?;
+        Self::draw_rows();
         Self::clear_screen()
     }
     fn terminate() -> Result<(), std::io::Error> {
@@ -60,5 +62,13 @@ impl Editor {
             print!("Goodbye. \r\n");
         }
         Ok(())
+    }
+    fn draw_rows() {
+        // for i in 0 to 29 we move cursor and then draw a tilde
+        for i in 0..120 {
+            let mut stdout = stdout();
+            execute!(stdout, cursor::MoveTo(0, i));
+            print!("~ \r")
+        }
     }
 }
