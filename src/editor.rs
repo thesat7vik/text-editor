@@ -62,7 +62,7 @@ impl Editor {
         let mut welcome_message = format!("{NAME} editor -- version {VERSION}");
         let width = Terminal::size()?.width;
         let len = welcome_message.len();
-        #[allow[clippy::integer_division]]
+        #[allow(clippy::integer_division)]
         let padding = {width.saturating_sub(len)} / 2;
         let spaces = " ".repeat(padding.saturating_sub(1));
         welcome_message = format!("~{spaces}{welcome_message}");
